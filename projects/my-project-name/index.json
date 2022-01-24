@@ -1,0 +1,11 @@
+{
+"name": "Test Project 1",
+"type": "Contracts",
+"image": "main-icon.png",
+"state": 1,
+"twitter_link": "twitter.com/junonetwork",
+"tg_link": "t.me/junonetwork",
+"address": "juno-smartcontract-address",
+"github_link": "github-link",
+"website_link": "https://junochain.com"
+}
